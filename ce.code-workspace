@@ -1,0 +1,37 @@
+{
+  "folders": [
+	{
+		"path": "../../ce"
+	},
+	{
+		"path": "../starter"
+	},
+	{
+		"path": "../Part3/Starter1"
+	},
+	{
+		"path": "../Part3/Activity3-FixtheGlitch/starter"
+	},
+	{
+		"path": "../Part4/Starter4-1"
+	},
+	{
+		"path": "../Part4/Starter4-2"
+	},
+	{
+		"path": "../Part4/Starter4-3"
+	},
+	{
+		"path": "../Part4/Activity4-EventArcade"
+	},
+	{
+		"path": "../Part5"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Part5"
+  }
+}
